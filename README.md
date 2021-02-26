@@ -12,4 +12,4 @@
 
 [有一個網址](https://moodle.mcu.edu.tw/)
 
-[圖片的名子](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVvMCunywGYk&psig=AOvVaw1Z1amQXEkb5uoZCNgIyG0u&ust=1614394470705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi_8J7Ghu8CFQAAAAAdAAAAABAQ)
+[圖片的名子](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkknews.cc%2Fgame%2Fqxnnkyb.html&psig=AOvVaw1Z1amQXEkb5uoZCNgIyG0u&ust=1614394470705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi_8J7Ghu8CFQAAAAAdAAAAABAV)
