@@ -8,6 +8,15 @@
 ## 興趣
 我喜歡打排球
 
+```c
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+}
+
+
 ## 好玩的圖
 
 [有一個網址](https://moodle.mcu.edu.tw/)
