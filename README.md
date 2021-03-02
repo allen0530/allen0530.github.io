@@ -38,6 +38,29 @@ int main()
 }
 ```
 ## 第二個程式
+```c
+#include <stdio.h>
+int main()
+{
+	int a,i,b=0;
+	scanf("%d",&a);
+	
+	for(int i=1;i<=a;i++)
+	{
+		if(a%i==0)
+		{
+		b++;
+		
+		}
+		}
+	printf("%d\n",b);
+	
+		
+
+
+
+}
+```
 
 
 
@@ -45,10 +68,50 @@ int main()
 
 
 ## 第三個程式
+```c
+#include <stdio.h>
+int main()
+{
+	int a,i,b=0;
+	
+	for(int i=0;i<10;i++)
+	{
+		scanf("%d",&a);
+		if(a%3==0)
+			b++;
+	}
+	printf("%d\n",b);
+	
+	
+
+
+
+
+
+}
+```
+
 
 
 
 ## 第四個程式
+```c
+#include <stdio.h>
+int main()
+{
+	int a;
+	scanf("%d",&a);
+	if(a>=90) printf("A\n");
+	else if(a<90&&a>=80) printf("B\n");
+	else if(a<80&&a>=60) printf("C\n");
+	else printf("F\n");
+	
+
+
+
+
+}
+```
 
 
 
@@ -56,3 +119,22 @@ int main()
 
 
 ## 第五個程式
+```c
+#include <stdio.h>
+int main()
+{
+	int a,b,i,ans=1;
+	scanf("%d%d",&a,&b);
+	for(int i=1;i<=b;i++)
+	{
+		if(a%i==0 && b%i==0)
+			ans=i;
+	}
+	printf("%d %d\n",a/ans,b/ans);
+	
+
+
+
+
+}
+```
