@@ -23,3 +23,17 @@ int main()
 [有一個網址](https://moodle.mcu.edu.tw/)
 
 ![圖片的名子](https://img.wreadit.com/member/158/blogId/easylifetw/149810/article_cover/149810-e23d80efef1f07da6989940f9352300b.png)
+
+```c
+#include <stdio.h>
+int main()
+{
+	int a , b, c, d;
+	scanf("%d",&a);
+	printf("%d=50*%d+5*%d+1*%d\n",a,a/50,a%50/5,a%50%5/1);
+	
+
+
+
+}
+```
